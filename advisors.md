@@ -10,3 +10,5 @@
 | [joseph gonzalez](https://scholar.google.com/citations?user=gM2WW9UAAAAJ&hl=en) | uc berkeley |
 | [david duvenaud](https://scholar.google.com/citations?user=ZLpO3XQAAAAJ&hl=en) | vector institute |
 | [frank rudzicz](https://scholar.google.ca/citations?user=elXOB1sAAAAJ&hl=en) | vector institute |
+| [shih fu chang](https://scholar.google.com/citations?user=OMVTRscAAAAJ&hl=en) | columbia |
+| [julian togelius](https://scholar.google.com/citations?user=lr4I9BwAAAAJ&hl=en) | nyu |
