@@ -1,4 +1,4 @@
-# samsung q portfolio
+# our portfolio
 
 |Founders | Company |
 |:--------|:----------|

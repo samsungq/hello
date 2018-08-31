@@ -7,3 +7,4 @@ more on our investment philosophy, [portfolio](https://github.com/samsungq/hello
 
 ### who are we?
 vin tang — [github](https://github.com/mynameisvinn) | [twitter](https://twitter.com/mynameisvinn) | [linkedin](https://www.linkedin.com/in/vintang)
+ajay singh — [linkedin](https://www.linkedin.com/in/vintang)

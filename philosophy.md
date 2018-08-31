@@ -1,5 +1,9 @@
 # investment philosophy
 
-### what do we look for?
+## what do we look for?
+### problem
+### founding teams
+### markets
 
-### diligence process
+## diligence
+your time is important. if we don't feel like 
